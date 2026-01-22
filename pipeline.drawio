@@ -27,7 +27,7 @@
         <mxCell id="zyt8DBD28ZLw67QfFfoG-31" edge="1" parent="1" source="zyt8DBD28ZLw67QfFfoG-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zyt8DBD28ZLw67QfFfoG-26" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zyt8DBD28ZLw67QfFfoG-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Task Description" vertex="1">
+        <mxCell id="zyt8DBD28ZLw67QfFfoG-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" value="Task Description" vertex="1">
           <mxGeometry height="41" width="89" x="391" y="311" as="geometry" />
         </mxCell>
         <mxCell id="zyt8DBD28ZLw67QfFfoG-32" edge="1" parent="1" source="zyt8DBD28ZLw67QfFfoG-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zyt8DBD28ZLw67QfFfoG-26" value="">
