@@ -42,7 +42,7 @@
         <mxCell id="zyt8DBD28ZLw67QfFfoG-38" edge="1" parent="1" source="zyt8DBD28ZLw67QfFfoG-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zyt8DBD28ZLw67QfFfoG-37" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zyt8DBD28ZLw67QfFfoG-26" parent="1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=#99CCFF;" value="LLM" vertex="1">
+        <mxCell id="zyt8DBD28ZLw67QfFfoG-26" parent="1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=#99CCFF;" value="LLM + RAG" vertex="1">
           <mxGeometry height="54" width="98" x="558" y="257" as="geometry" />
         </mxCell>
         <mxCell id="zyt8DBD28ZLw67QfFfoG-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;glass=0;dashed=1;dashPattern=1 1;fillStyle=dots;" value="" vertex="1">
@@ -55,7 +55,7 @@
           <mxGeometry height="82" width="63" x="859" y="234" as="geometry" />
         </mxCell>
         <mxCell id="zyt8DBD28ZLw67QfFfoG-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Dynamic PDDL&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="106" x="782" y="196.88" as="geometry" />
+          <mxGeometry height="30" width="106" x="782" y="341.13" as="geometry" />
         </mxCell>
         <mxCell id="zyt8DBD28ZLw67QfFfoG-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Domain" vertex="1">
           <mxGeometry height="21" width="52" x="771.5" y="316" as="geometry" />
