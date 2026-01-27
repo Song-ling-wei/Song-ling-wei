@@ -23,7 +23,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pNGswa-QA-qP_xJw1krp-40" parent="1" style="image;html=1;image=img/lib/atlassian/Bamboo_Logo.svg;shadow=1;imageBackground=none;" value="" vertex="1">
-          <mxGeometry height="39" width="33" x="216.47" y="244" as="geometry" />
+          <mxGeometry height="37" width="35" x="216.47" y="244" as="geometry" />
         </mxCell>
         <mxCell id="pNGswa-QA-qP_xJw1krp-42" parent="1" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#99CCFF;strokeColor=none;shape=mxgraph.alibaba_cloud.user;" value="" vertex="1">
           <mxGeometry height="55" width="55" x="43.15" y="-68.5" as="geometry" />
