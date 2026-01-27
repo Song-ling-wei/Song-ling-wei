@@ -117,7 +117,7 @@
           <mxGeometry height="30" width="60" x="542" y="310" as="geometry" />
         </mxCell>
         <mxCell id="jG7G7B81fN9CHe0zvg0u-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;装配任务精炼描述&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="104.75" y="138" as="geometry" />
+          <mxGeometry height="30" width="60" x="60.5" y="135" as="geometry" />
         </mxCell>
         <mxCell id="jG7G7B81fN9CHe0zvg0u-60" edge="1" parent="1" source="jG7G7B81fN9CHe0zvg0u-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="jG7G7B81fN9CHe0zvg0u-58" value="">
           <mxGeometry relative="1" as="geometry" />
